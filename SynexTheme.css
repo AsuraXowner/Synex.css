@@ -740,7 +740,7 @@ button[class*="lookFilled__201d5"]:hover {
 
 .tip_a2f514::after {
     animation: slidein 1s;
-    content: "Welcome back Gamerfoxy.";
+    content: "Welcome back User.";
     color: white !important;
     display: flex;
     justify-content: center;
